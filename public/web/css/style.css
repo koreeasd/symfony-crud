@@ -1,0 +1,14 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.row {
+    padding: 15px;
+}
+
+h3 {
+    text-align: center;
+    padding: 10px;
+}
+
